@@ -1,0 +1,27 @@
+body{
+    text-align:center;
+
+}
+li{
+    display:inline;
+    margin-right:30px;
+}
+    header{
+        background-color:pink;
+        padding:20px;
+    }
+    img{
+        border-radius:50%;
+    }
+   footer{
+    background-color: black;
+   }
+   .bars{
+       background-color:mediumaquamarine;
+   }
+   .one{
+    background-color:cornflowerblue;
+    padding: 10px;
+    padding-bottom:10px;
+   }
+  
